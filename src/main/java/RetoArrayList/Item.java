@@ -1,6 +1,4 @@
 package RetoArrayList;
-
-// Esta clase no la vamos a modificar, ya tiene lo necesario
 public class Item {
 
     private String name;
@@ -27,3 +25,5 @@ public class Item {
         this.weight = weight;
     }
 }
+
+// Esta clase no la vamos a modificar, ya tiene lo necesario
